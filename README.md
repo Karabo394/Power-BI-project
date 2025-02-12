@@ -26,5 +26,6 @@ The dataset includes transactional records with key variables such as:
     * Gender sales insights
 
 ### Visualization
-https://github.com/Karabo394/Power-BI-project/blob/main/Balji_dashboard.pdf
+![Screenshot 2025-02-12 175857](https://github.com/user-attachments/assets/16174372-e7a3-4512-bd77-013bdfb3dd39)
+
 
