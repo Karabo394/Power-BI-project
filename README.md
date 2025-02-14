@@ -14,7 +14,7 @@ The dataset includes transactional records with key variables such as:
 * Title : Mr / Mrs
 * Time of sale: Morning/afternoon/evening/night/midnight
 
-### Key Analyses Performed
+### Key Analysis Performed
 1. **Sales trend:** 
     * Monthly sales patterns
     * time of sale patterns
